@@ -1,0 +1,83 @@
+Query Mode: naive search## Rare Earths - Export of Ferrocerium Alloys & Products
+
+In 2021, 825 tons of Ferrocerium, alloys were exported.
+
+Here are 5 products made with Ferrocerium:
+
+While the document chunks do not explicitly list the top 5 products made with Ferrocerium, it is mentioned that it is used in alloys. Based on general knowledge, here are 5 common products utilizing Ferrocerium:
+
+1.  **Lighters:** Ferrocerium is a key component in disposable and refillable lighters, creating sparks to ignite the fuel.
+2.  **Spark Igniters:** Used in gas grills, stoves, and other appliances to create a spark for ignition.
+3.  **Emergency Fire Starters:** Ferrocerium rods are popular in survival kits for reliably starting fires in various conditions.
+4.  **Welding Rods:** Certain welding rods contain Ferrocerium to aid in spark generation.
+5.  **Pyrotechnics:** Used in some pyrotechnic devices to create sparks or special effects.
+
+**References:**
+
+*   [DC] unknown_source
+*   [DC] unknown_source
+*   [DC] unknown_source
+*   [DC] unknown_source
+*   [DC] unknown_sourceQuery Mode: local searchIn 2021, 825 tons of Ferrocerium alloys were exported.
+
+While the provided knowledge base doesn’t list specific products *made with* Ferrocerium, it does state that Ferrocerium alloys are used in the creation of items such as lighters, gas stove igniters, welding rods, and pyrotechnics. Unfortunately, a list of the top 5 products is unavailable from the provided sources.
+
+**References:**
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_sourceQuery Mode: global searchIn 2021, 825 tons of Ferrocerium, alloys were exported according to the provided data.
+
+Here are 5 products made with Ferrocerium:
+
+1.  Lighters
+2.  Flintlock firearms
+3.  Welding rods
+4.  Pyrotechnics
+5.  Gas mantles
+
+**References:**
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_sourceQuery Mode: hybrid search## Ferrocerium Alloy Exports and Applications
+
+In 2021, the United States exported 825 tons of Ferrocerium alloys. This figure is based on data reported in the 2023 Mineral Commodity Summary.
+
+### Top 5 Products Made with Ferrocerium
+
+Ferrocerium alloys are primarily used to create sparking ignition devices. Here are five common products utilizing Ferrocerium:
+
+1.  **Lighters:** Ferrocerium rods are a core component in disposable and refillable lighters, creating the spark to ignite the fuel.
+2.  **Matchsticks:** Certain types of matchsticks utilize Ferrocerium to improve ignition reliability.
+3.  **Flintlock Firearms:** Traditional flintlock firearms historically used pieces of Ferrocerium (often called "flint") to create sparks for ignition.
+4.  **Spark Wheels:** Found in some camping equipment and emergency fire starters, spark wheels consist of a Ferrocerium rod scraped by a steel striker.
+5.  **Gas Appliances:** Ferrocerium is used in the ignition systems of various gas appliances, such as stoves and heaters.
+
+**References:**
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_sourceQuery Mode: mix search## Ferrocerium Alloy Export Statistics (2021)
+
+According to the provided data, 330 tons of Ferrocerium alloys were exported in 2021. This information is derived from the "Salient Statistics-United States" table within the Vector Data source.
+
+## Top 5 Products Made with Ferrocerium
+
+Ferrocerium is primarily known for its use in creating sparks, and is therefore found in a variety of products requiring ignition. Based on common applications, the top 5 products made with Ferrocerium are:
+
+1.  **Lighters:** The most common application, providing a reliable ignition source for various fuels.
+2.  **Match Lighted Firestarters:** Used for camping and emergency situations where a consistent ignition source is required.
+3.  **Gas Igniters:** Found in many gas appliances like stoves and grills.
+4.  **Welding Rods:** Certain welding rods incorporate Ferrocerium for stable arc ignition.
+5.  **Emergency Spark Tools:** Used in survival kits and outdoor equipment for fire starting in adverse conditions.
+
+## References
+
+1.  [DC] unknown_source

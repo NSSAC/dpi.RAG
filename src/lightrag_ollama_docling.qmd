@@ -1,0 +1,102 @@
+## import modules
+```{python}
+import asyncio
+import nest_asyncio
+nest_asyncio.apply()
+
+import os
+import inspect
+import logging
+import pathlib
+
+from pyprojroot.here import here
+from lightrag import LightRAG, QueryParam
+from lightrag.llm.ollama import ollama_model_complete, ollama_embed
+from lightrag.utils import EmbeddingFunc
+from lightrag.kg.shared_storage import initialize_pipeline_status
+```
+
+## set paths
+```{python}
+TEST_NAME = "marker"
+
+PDF_FILE = pathlib.Path(here("data/mcs2025-rare-earths.pdf"))
+MD_FILE = pathlib.Path(here("data"), TEST_NAME, PDF_FILE.with_suffix('.md').name)
+REPORT_FILE = pathlib.Path(here("doc"), TEST_NAME, TEST_NAME + ".txt")
+
+WORKING_DIR = pathlib.Path(here("data"), TEST_NAME)
+WORKING_DIR.mkdir(parents=True, exist_ok=True)
+
+REPORT_DIR = pathlib.Path(here("doc"), TEST_NAME)
+REPORT_DIR.mkdir(parents=True, exist_ok=True)
+```
+
+## config logging
+```{python}
+logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
+```
+
+## initialize_rag function
+```{python}
+async def initialize_rag():
+    rag = LightRAG(
+        working_dir=WORKING_DIR,
+        llm_model_func=ollama_model_complete,
+        llm_model_name="gemma3:27b",
+        llm_model_max_async=4,
+        llm_model_max_token_size=32768,
+        llm_model_kwargs={
+            "host": "http://localhost:11434",
+            "options": {"num_ctx": 32768},
+        },
+        embedding_func=EmbeddingFunc(
+            embedding_dim=768,
+            max_token_size=8192,
+            func=lambda texts: ollama_embed(
+                texts, embed_model="nomic-embed-text", host="http://localhost:11434"
+            ),
+        ),
+    )
+
+    await rag.initialize_storages()
+    await initialize_pipeline_status()
+
+    return rag
+```
+
+## print_stream function
+```{python}
+async def print_stream(stream):
+    async for chunk in stream:
+        print(chunk, end="", flush=True)
+```
+
+## initialize RAG instance
+```{python}
+    rag = asyncio.run(initialize_rag())
+```
+
+## insert parsed text
+```{python}
+with open(MD_FILE, "r", encoding="utf-8") as f:
+        rag.insert(f.read())
+```
+
+## set query
+```{python}
+query = """How many tons of Ferrocerium, alloys were exported in 2021?
+            "Also, list the top 5 products made with Ferrocerium.
+            "Make sure your answers come from real sources."""
+```
+
+## test different query modes
+```{python}
+modes = ["naive", "local", "global", "hybrid", "mix"]
+for mode in modes:
+    print("Query Mode: " + mode)
+    resp = rag.query(query, param=QueryParam(mode=mode))
+    with open(REPORT_FILE, "a") as f:
+        f.write("Query Mode: " + mode + " search")
+        f.write(resp)
+    print(resp)
+```

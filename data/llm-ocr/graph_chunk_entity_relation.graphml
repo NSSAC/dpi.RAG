@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d8" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d7" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d6" for="edge" attr.name="description" attr.type="string"/>
+<key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Madagascar">
+  <data key="d0">Madagascar</data>
+  <data key="d1">geo</data>
+  <data key="d2">Madagascar is a country located in Africa.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="India">
+  <data key="d0">India</data>
+  <data key="d1">geo</data>
+  <data key="d2">India is a country located in Asia.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Thailand">
+  <data key="d0">Thailand</data>
+  <data key="d1">geo</data>
+  <data key="d2">Thailand is a country located in Southeast Asia.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Nigeria">
+  <data key="d0">Nigeria</data>
+  <data key="d1">geo</data>
+  <data key="d2">Nigeria is a country located in West Africa.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Strategic Metals Stockpile">
+  <data key="d0">Strategic Metals Stockpile</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Strategic Metals Stockpile is managed by the U.S. Government.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="U.S. Government">
+  <data key="d0">U.S. Government</data>
+  <data key="d1">organization</data>
+  <data key="d2">The U.S. Government manages strategic stockpiles of rare earth elements.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rare Earth Elements">
+  <data key="d0">Rare Earth Elements</data>
+  <data key="d1">category</data>
+  <data key="d2">A group of chemically similar metallic elements.&lt;SEP&gt;Rare earth elements encompass a group of chemically similar metallic elements.&lt;SEP&gt;This document focuses on the data pertaining to various rare earth elements, including but not limited to neodymium, praseodymium, dysprosium, and terbium.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7&lt;SEP&gt;chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Catalysts">
+  <data key="d0">Catalysts</data>
+  <data key="d1">category</data>
+  <data key="d2">Catalysts are substances that speed up chemical reactions.&lt;SEP&gt;Substances that speed up chemical reactions.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Polishing Compounds">
+  <data key="d0">Polishing Compounds</data>
+  <data key="d1">category</data>
+  <data key="d2">Polishing compounds are used to smooth and refine surfaces.&lt;SEP&gt;Used to smooth and refine surfaces.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Electronics">
+  <data key="d0">Electronics</data>
+  <data key="d1">category</data>
+  <data key="d2">Electronics utilize rare earth elements in various components.&lt;SEP&gt;Industries that utilize rare earth elements.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Magnets">
+  <data key="d0">Magnets</data>
+  <data key="d1">category</data>
+  <data key="d2">Components reliant on rare earth elements.&lt;SEP&gt;Magnets rely on rare earth elements for their magnetic properties.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="U.S.">
+  <data key="d0">U.S.</data>
+  <data key="d1">geo</data>
+  <data key="d2">The United States of America, commonly referred to as the U.S.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Customs Data">
+  <data key="d0">Customs Data</data>
+  <data key="d1">organization</data>
+  <data key="d2">Data obtained from customs records, likely pertaining to international trade.&lt;SEP&gt;Data on imports and exports is based on customs data.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7&lt;SEP&gt;chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="2024">
+  <data key="d0">2024</data>
+  <data key="d1">event</data>
+  <data key="d2">The year 2024, referenced in the context of estimates.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="International Trade">
+  <data key="d0">International Trade</data>
+  <data key="d1">category</data>
+  <data key="d2">The exchange of goods and services between countries.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Geopolitical Implications">
+  <data key="d0">Geopolitical Implications</data>
+  <data key="d1">category</data>
+  <data key="d2">The potential strategic value of rare earth elements and their impact on international relations.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="International Relations">
+  <data key="d0">International Relations</data>
+  <data key="d1">category</data>
+  <data key="d2">The interplay of nations concerning resource control.</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Applications">
+  <data key="d0">Applications</data>
+  <data key="d3">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d2">Rare earth elements have applications in catalysts, polishing compounds, electronics, and magnets.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="United States">
+  <data key="d0">United States</data>
+  <data key="d1">geo</data>
+  <data key="d2">The United States is a country that produces and consumes rare earth elements.&lt;SEP&gt;The United States is included as a country with production, consumption, and reserve data for rare earth elements.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="China">
+  <data key="d0">China</data>
+  <data key="d1">geo</data>
+  <data key="d2">China is a major producer and reserve holder of rare earth elements.&lt;SEP&gt;China is a major producer of rare earth elements globally.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Australia">
+  <data key="d0">Australia</data>
+  <data key="d1">geo</data>
+  <data key="d2">Australia is a significant producer and holds substantial reserves of rare earth elements.&lt;SEP&gt;Australia is a significant producer of rare earth elements.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="U.S. Mines">
+  <data key="d0">U.S. Mines</data>
+  <data key="d1">organization</data>
+  <data key="d2">The U.S. mines are sources of rare earth minerals within the United States.&lt;SEP&gt;These mining operations contribute to the production of rare earth minerals within the U.S.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Neodymium">
+  <data key="d0">Neodymium</data>
+  <data key="d1">category</data>
+  <data key="d2">Neodymium is a specific rare earth element featured prominently in data.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Praseodymium">
+  <data key="d0">Praseodymium</data>
+  <data key="d1">category</data>
+  <data key="d2">Praseodymium is another specific rare earth element included in the data.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Dysprosium">
+  <data key="d0">Dysprosium</data>
+  <data key="d1">category</data>
+  <data key="d2">Dysprosium is a specific rare earth element present in the data.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Terbium">
+  <data key="d0">Terbium</data>
+  <data key="d1">category</data>
+  <data key="d2">Terbium is a specific rare earth element in the data.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Cerium">
+  <data key="d0">Cerium</data>
+  <data key="d1">category</data>
+  <data key="d2">Cerium is a key rare earth element in the data, featured in data concerning prices and trade.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Lanthanum">
+  <data key="d0">Lanthanum</data>
+  <data key="d1">category</data>
+  <data key="d2">Lanthanum is a rare earth element of interest in the data.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Neodymium-Praseodymium Concentrate">
+  <data key="d0">Neodymium-Praseodymium Concentrate</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The Neodymium-Praseodymium concentrate is a significant element featured in the data, reflecting the concentration of those two elements.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Dysprosium-Terbium Concentrate">
+  <data key="d0">Dysprosium-Terbium Concentrate</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The Dysprosium-Terbium concentrate is a specific element featured in the data.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Cerium-Lanthanum Concentrate">
+  <data key="d0">Cerium-Lanthanum Concentrate</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The Cerium-Lanthanum concentrate is a specific element featured in the data.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rare Earths">
+  <data key="d0">Rare Earths</data>
+  <data key="d1">category</data>
+  <data key="d2">This refers to a group of 17 metallic elements, including the lanthanides and scandium and yttrium, used in a wide range of industrial applications.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="United States Mines">
+  <data key="d0">United States Mines</data>
+  <data key="d1">organization</data>
+  <data key="d2">These are the mining operations within the United States that produce rare earth minerals.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rare Earth Element Compounds">
+  <data key="d0">Rare Earth Element Compounds</data>
+  <data key="d1">category</data>
+  <data key="d2">These include various chemical formulations of rare earth elements used in different industrial applications.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Metals">
+  <data key="d0">Metals</data>
+  <data key="d1">category</data>
+  <data key="d2">This refers to the metallic elements of the rare earth group.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Cerium Fluoride">
+  <data key="d0">Cerium Fluoride</data>
+  <data key="d1">category</data>
+  <data key="d2">This is a specific rare earth element compound used in various applications.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Neodymium Fluoride">
+  <data key="d0">Neodymium Fluoride</data>
+  <data key="d1">category</data>
+  <data key="d2">This is a specific rare earth element compound used in various applications.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Lanthanum Fluoride">
+  <data key="d0">Lanthanum Fluoride</data>
+  <data key="d1">category</data>
+  <data key="d2">This is a specific rare earth element compound used in various applications.</data>
+  <data key="d3">chunk-daa36ac994b6b089699fef413ea5fb97</data>
+  <data key="d4">unknown_source</data>
+</node>
+<edge source="Madagascar" target="India">
+  <data key="d5">17.0</data>
+  <data key="d6">India has a significantly larger population than Madagascar.&lt;SEP&gt;India's higher population and resource output contrast with Madagascar's smaller scale.</data>
+  <data key="d7">economic disparity, scale of operation&lt;SEP&gt;population comparison, demographic data</data>
+  <data key="d8">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="India" target="Nigeria">
+  <data key="d5">18.0</data>
+  <data key="d6">India's greater GDP reflects its advanced economy compared to Nigeria.&lt;SEP&gt;India's resource output is greater than Nigeria's.&lt;SEP&gt;Nigeria's lower resource output reflects its regional economic circumstances.</data>
+  <data key="d7">economic factors, regional comparison&lt;SEP&gt;economic indicator, regional comparison&lt;SEP&gt;resource abundance, economic impact</data>
+  <data key="d8">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Strategic Metals Stockpile" target="Rare Earth Elements">
+  <data key="d5">10.0</data>
+  <data key="d6">The Strategic Metals Stockpile is responsible for managing U.S. rare earth element stockpiles.</data>
+  <data key="d7">government agency, resource management</data>
+  <data key="d8">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Strategic Metals Stockpile" target="U.S.">
+  <data key="d5">18.0</data>
+  <data key="d6">The Strategic Metals Stockpile is a component of U.S. national security policy.&lt;SEP&gt;The Strategic Metals Stockpile’s existence reflects the U.S. government’s understanding of the strategic importance of rare earth elements.&lt;SEP&gt;The Strategic Metals Stockpile represents a strategy to mitigate geopolitical risks associated with rare earth element supply.</data>
+  <data key="d7">geopolitics, supply chain&lt;SEP&gt;national security, resource control&lt;SEP&gt;strategic importance, national interest</data>
+  <data key="d8">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Strategic Metals Stockpile" target="International Trade">
+  <data key="d5">8.0</data>
+  <data key="d6">The Strategic Metals Stockpile acts as a buffer against disruptions in the global rare earth element supply chain.&lt;SEP&gt;The Strategic Metals Stockpile is intended to influence and stabilize international trade dynamics for rare earth elements.</data>
+  <data key="d7">resource control, trade policy&lt;SEP&gt;supply chain resilience, mitigation</data>
+  <data key="d8">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earth Elements" target="Applications">
+  <data key="d5">9.0</data>
+  <data key="d6">Rare earth elements have applications in catalysts, polishing compounds, electronics, and magnets.</data>
+  <data key="d7">industry use, technology applications</data>
+  <data key="d8">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="U.S." target="International Trade">
+  <data key="d5">18.0</data>
+  <data key="d6">The U.S. benefits from international trade but faces vulnerabilities related to reliance on foreign sources of rare earth elements.&lt;SEP&gt;The U.S. economy relies on international trade networks for various resources, including rare earth elements.&lt;SEP&gt;The exchange of resources through international trade highlights the interconnectedness of the global economy.</data>
+  <data key="d7">economic impact, resource security&lt;SEP&gt;global economy, interdependence&lt;SEP&gt;trade, economic dependence</data>
+  <data key="d8">chunk-feb7aa789b973b93b3ab3d468df264b7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+</graph></graphml>

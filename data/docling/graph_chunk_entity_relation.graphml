@@ -1,0 +1,824 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d8" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d7" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d6" for="edge" attr.name="description" attr.type="string"/>
+<key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="California">
+  <data key="d0">California</data>
+  <data key="d1">geo</data>
+  <data key="d2">California is a state where praseodymium, neodymium, and other rare-earth compounds are produced.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Utah">
+  <data key="d0">Utah</data>
+  <data key="d1">geo</data>
+  <data key="d2">Utah is a state where rare-earth compounds are produced.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="China">
+  <data key="d0">China</data>
+  <data key="d1">geo</data>
+  <data key="d2">China is a leading country in rare earth mining, processing, and production, with 44 million tons of reserves.&lt;SEP&gt;China is a source of import data regarding rare-earth materials.&lt;SEP&gt;China is a major source of rare-earth compounds and metals, accounting for 70% of US imports.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-10830d3db4709fbf76df9a35bc684ef8&lt;SEP&gt;chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Australia">
+  <data key="d0">Australia</data>
+  <data key="d1">geo</data>
+  <data key="d2">Australia has 3.3 million tons of Joint Ore Reserves Committee-compliant or equivalent reserves of rare-earth materials.&lt;SEP&gt;Australia is a major producer and holder of rare earth reserves, with 5.7 million tons of reserves.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="U.S. Census Bureau">
+  <data key="d0">U.S. Census Bureau</data>
+  <data key="d1">organization</data>
+  <data key="d2">The U.S. Census Bureau is a source of data regarding rare-earth material production and imports/exports.&lt;SEP&gt;The U.S. Census Bureau is a source of data related to rare earth content and production estimates.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Argus Media Group">
+  <data key="d0">Argus Media Group</data>
+  <data key="d1">organization</data>
+  <data key="d2">Argus Media Group, specifically Argus Non-Ferrous Markets, provides data related to non-ferrous materials.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Zen Innovations">
+  <data key="d0">Zen Innovations</data>
+  <data key="d1">organization</data>
+  <data key="d2">Zen Innovations, through Global Trade Tracker, is a source of estimated data based on reported import data for China.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Joint Ore Reserves Committee">
+  <data key="d0">Joint Ore Reserves Committee</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Joint Ore Reserves Committee sets standards for reporting ore reserves, used for Australian data.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="2023">
+  <data key="d0">2023</data>
+  <data key="d1">event</data>
+  <data key="d2">Year in which 1,920 tons of rare-earth compounds were produced domestically.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="2024">
+  <data key="d0">2024</data>
+  <data key="d1">event</data>
+  <data key="d2">Year in which 7,600 tons of rare-earth compounds were produced domestically.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rare-Earth Compounds">
+  <data key="d0">Rare-Earth Compounds</data>
+  <data key="d1">category</data>
+  <data key="d2">A category of materials being produced, imported, and exported, with data tracked by various organizations.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Praseodymium">
+  <data key="d0">Praseodymium</data>
+  <data key="d1">category</data>
+  <data key="d2">A rare-earth element produced in California.&lt;SEP&gt;Praseodymium is a rare earth metal often used with neodymium.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Neodymium">
+  <data key="d0">Neodymium</data>
+  <data key="d1">category</data>
+  <data key="d2">A rare-earth element produced in California.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Hong Kong">
+  <data key="d0">Hong Kong</data>
+  <data key="d1">geo</data>
+  <data key="d2">Included in import/export data figures.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Gross Weight">
+  <data key="d0">Gross Weight</data>
+  <data key="d1">category</data>
+  <data key="d2">Measurement unit for material quantities.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Appendix B">
+  <data key="d0">Appendix B</data>
+  <data key="d1">category</data>
+  <data key="d2">Contains definitions used in the text.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Appendix C">
+  <data key="d0">Appendix C</data>
+  <data key="d1">category</data>
+  <data key="d2">Contains resource and reserve definitions and data source information.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Production Quota">
+  <data key="d0">Production Quota</data>
+  <data key="d1">category</data>
+  <data key="d2">Represents the maximum allowable production level.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Undocumented Production">
+  <data key="d0">Undocumented Production</data>
+  <data key="d1">category</data>
+  <data key="d2">Production not officially recorded or reported.</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Resource and Reserve Definitions">
+  <data key="d0">Resource and Reserve Definitions</data>
+  <data key="d3">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d2">Appendix C provides definitions for resource and reserve terms.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="United States">
+  <data key="d0">United States</data>
+  <data key="d1">geo</data>
+  <data key="d2">The United States is a significant country with rare earth production and resources, with 1.9 million tons of rare earth resources.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Canada">
+  <data key="d0">Canada</data>
+  <data key="d1">geo</data>
+  <data key="d2">Canada has substantial rare earth resources, exceeding 14 million tons.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Russia">
+  <data key="d0">Russia</data>
+  <data key="d1">geo</data>
+  <data key="d2">Russia has rare earth reserves totaling 3.8 million tons.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Nigeria">
+  <data key="d0">Nigeria</data>
+  <data key="d1">geo</data>
+  <data key="d2">Nigeria shows increasing rare earth production with 7,200 tons in 2023 and 13,000 in 2024.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Thailand">
+  <data key="d0">Thailand</data>
+  <data key="d1">geo</data>
+  <data key="d2">Thailand has experienced an increase in rare earth production, with 3,600 tons in 2023 and 13,000 in 2024.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Vietnam">
+  <data key="d0">Vietnam</data>
+  <data key="d1">geo</data>
+  <data key="d2">Vietnam holds substantial rare earth reserves of 3.5 million tons.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rare Earths">
+  <data key="d0">Rare Earths</data>
+  <data key="d1">category</data>
+  <data key="d2">Rare earths are a group of elements mined and processed for various industrial applications, with significant US production and import reliance.&lt;SEP&gt;Rare earths are mineral commodities with varying applications, but minable concentrations are less common.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="World total">
+  <data key="d0">World total</data>
+  <data key="d1">category</data>
+  <data key="d2">The world total of rare earth production is approximately 376,000 tons (rounded) in 2023 and 390,000 tons in 2024.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Monazite">
+  <data key="d0">Monazite</data>
+  <data key="d1">category</data>
+  <data key="d2">Monazite is a phosphate mineral stockpiled as a rare-earth concentrate in the southeastern United States.&lt;SEP&gt;Monazite is a phosphate mineral that often contains rare earth elements.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Bastnaesite">
+  <data key="d0">Bastnaesite</data>
+  <data key="d1">category</data>
+  <data key="d2">Bastnaesite is a rare earth fluorocarbonate mineral.&lt;SEP&gt;Bastnaesite is a rare-earth fluorocarbonate mineral mined as a primary product in Mountain Pass, CA.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Xenotime">
+  <data key="d0">Xenotime</data>
+  <data key="d1">category</data>
+  <data key="d2">Xenotime is a rare earth phosphate mineral.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Cerium Compounds">
+  <data key="d0">Cerium Compounds</data>
+  <data key="d1">category</data>
+  <data key="d2">Cerium compounds are chemicals containing cerium, a rare earth element.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Lanthanum">
+  <data key="d0">Lanthanum</data>
+  <data key="d1">category</data>
+  <data key="d2">Lanthanum is a rare earth element used in various applications.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Neodymium-Praseodymium Oxide">
+  <data key="d0">Neodymium-Praseodymium Oxide</data>
+  <data key="d1">category</data>
+  <data key="d2">Neodymium-Praseodymium Oxide is a compound used in magnets.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Neodymium-Iron-Boron Magnet Block">
+  <data key="d0">Neodymium-Iron-Boron Magnet Block</data>
+  <data key="d1">category</data>
+  <data key="d2">Neodymium-Iron-Boron Magnet Block is a type of permanent magnet.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Samarium-Cobalt Alloy">
+  <data key="d0">Samarium-Cobalt Alloy</data>
+  <data key="d1">category</data>
+  <data key="d2">Samarium-Cobalt Alloy is a high-performance magnet alloy.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Scandium">
+  <data key="d0">Scandium</data>
+  <data key="d1">category</data>
+  <data key="d2">Scandium is a rare earth metal used in alloys and fuel cells.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Yttrium">
+  <data key="d0">Yttrium</data>
+  <data key="d1">category</data>
+  <data key="d2">Yttrium is a rare earth metal used in various applications.</data>
+  <data key="d3">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Malaysia">
+  <data key="d0">Malaysia</data>
+  <data key="d1">geo</data>
+  <data key="d2">Malaysia is a source of rare-earth compounds and metals, accounting for 13% of US imports.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Japan">
+  <data key="d0">Japan</data>
+  <data key="d1">geo</data>
+  <data key="d2">Japan is a source of rare-earth compounds and metals, accounting for 6% of US imports.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Estonia">
+  <data key="d0">Estonia</data>
+  <data key="d1">geo</data>
+  <data key="d2">Estonia is a source of rare-earth compounds and metals, accounting for 5% of US imports.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Permanent Magnets">
+  <data key="d0">Permanent Magnets</data>
+  <data key="d1">category</data>
+  <data key="d2">Permanent magnets are a key end use of rare earths, with some sourced as embedded components in finished goods.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Batteries">
+  <data key="d0">Batteries</data>
+  <data key="d1">category</data>
+  <data key="d2">Batteries are a source for recycling rare earths.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Fluorescent Lamps">
+  <data key="d0">Fluorescent Lamps</data>
+  <data key="d1">category</data>
+  <data key="d2">Fluorescent lamps are a source for recycling rare earths.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Mountain Pass, CA">
+  <data key="d0">Mountain Pass, CA</data>
+  <data key="d1">geo</data>
+  <data key="d2">Mountain Pass, CA, is the location of a mine producing Bastnaesite.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Southeastern United States">
+  <data key="d0">Southeastern United States</data>
+  <data key="d1">geo</data>
+  <data key="d2">The Southeastern United States is a region where Monazite is stockpiled.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="US Imports">
+  <data key="d0">US Imports</data>
+  <data key="d1">category</data>
+  <data key="d2">Represents the total amount of rare earth compounds and metals imported into the United States.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rare-Earth Fluorocarbonate">
+  <data key="d0">Rare-Earth Fluorocarbonate</data>
+  <data key="d1">category</data>
+  <data key="d2">The chemical composition of Bastnaesite, a primary rare-earth mineral.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Phosphate Mineral">
+  <data key="d0">Phosphate Mineral</data>
+  <data key="d1">category</data>
+  <data key="d2">The chemical composition of Monazite, a rare-earth containing mineral.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Heavy-Mineral-Sand Concentrates">
+  <data key="d0">Heavy-Mineral-Sand Concentrates</data>
+  <data key="d1">category</data>
+  <data key="d2">A type of mineral concentrate that can contain Monazite.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Cerium Oxide">
+  <data key="d0">Cerium Oxide</data>
+  <data key="d1">category</data>
+  <data key="d2">A specific rare-earth compound with a stated price of $1/kg.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Dysprosium Oxide">
+  <data key="d0">Dysprosium Oxide</data>
+  <data key="d1">category</data>
+  <data key="d2">A specific rare-earth compound with a stated price of $260/kg.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Europium Oxide">
+  <data key="d0">Europium Oxide</data>
+  <data key="d1">category</data>
+  <data key="d2">A specific rare-earth compound with a stated price of $27/kg.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Lanthanum Oxide">
+  <data key="d0">Lanthanum Oxide</data>
+  <data key="d1">category</data>
+  <data key="d2">A specific rare-earth compound with a stated price of $1/kg.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Mischmetal">
+  <data key="d0">Mischmetal</data>
+  <data key="d1">category</data>
+  <data key="d2">An alloy containing cerium and lanthanum, priced at $5/kg.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Neodymium Oxide">
+  <data key="d0">Neodymium Oxide</data>
+  <data key="d1">category</data>
+  <data key="d2">A specific rare-earth compound with a stated price of $56/kg.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Terbium Oxide">
+  <data key="d0">Terbium Oxide</data>
+  <data key="d1">category</data>
+  <data key="d2">A specific rare-earth compound with a stated price of $810/kg.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Ferrocerium Alloys">
+  <data key="d0">Ferrocerium Alloys</data>
+  <data key="d1">category</data>
+  <data key="d2">Alloys that include Ferrocerium, a rare-earth metal.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Scandium &amp; Yttrium">
+  <data key="d0">Scandium &amp; Yttrium</data>
+  <data key="d1">category</data>
+  <data key="d2">Rare-earth metals also imported and exported.</data>
+  <data key="d3">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d4">unknown_source</data>
+</node>
+<edge source="California" target="Rare-Earth Compounds">
+  <data key="d5">16.0</data>
+  <data key="d6">California is a location where rare-earth compounds are produced.&lt;SEP&gt;California is a production location for rare-earth compounds.</data>
+  <data key="d7">production location, material source</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Utah" target="Rare-Earth Compounds">
+  <data key="d5">16.0</data>
+  <data key="d6">Utah is a location where rare-earth compounds are produced.&lt;SEP&gt;Utah is a production location for rare-earth compounds.</data>
+  <data key="d7">production location, material source</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="China" target="Rare-Earth Compounds">
+  <data key="d5">7.0</data>
+  <data key="d6">Import data from China is used for estimating rare-earth compound data.</data>
+  <data key="d7">import data, trade analysis</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="China" target="Hong Kong">
+  <data key="d5">6.0</data>
+  <data key="d6">Hong Kong is included in the figures for import and export data from China.</data>
+  <data key="d7">data inclusion, geographic region</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="China" target="Rare Earths">
+  <data key="d5">30.0</data>
+  <data key="d6">China is a leading country in rare earth mining and production, holding 44 million tons of reserves.&lt;SEP&gt;China is the primary import source for rare-earth compounds and metals.</data>
+  <data key="d7">leading producer, resource location&lt;SEP&gt;supply chain, import reliance</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="China" target="US Imports">
+  <data key="d5">9.0</data>
+  <data key="d6">China is the dominant source of rare-earth compounds and metals imported into the US.</data>
+  <data key="d7">supply chain, import source</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Australia" target="Rare-Earth Compounds">
+  <data key="d5">16.0</data>
+  <data key="d6">Australia has significant reserves of rare-earth compounds that adhere to Joint Ore Reserves Committee standards.&lt;SEP&gt;Australia has significant reserves of rare-earth compounds.</data>
+  <data key="d7">resource reserves, material location</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Australia" target="Joint Ore Reserves Committee">
+  <data key="d5">8.0</data>
+  <data key="d6">The Joint Ore Reserves Committee sets standards for reporting ore reserves in Australia.</data>
+  <data key="d7">regulatory standards, resource reporting</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Australia" target="Rare Earths">
+  <data key="d5">18.0</data>
+  <data key="d6">Australia holds 5.7 million tons of rare earth reserves.</data>
+  <data key="d7">resource location, mineral reserve</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="U.S. Census Bureau" target="Rare-Earth Compounds">
+  <data key="d5">18.0</data>
+  <data key="d6">The U.S. Census Bureau provides data on rare-earth compound production and trade.&lt;SEP&gt;The U.S. Census Bureau provides data related to the production and import/export of rare-earth compounds.</data>
+  <data key="d7">data source, statistical analysis</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="U.S. Census Bureau" target="Rare Earths">
+  <data key="d5">7.0</data>
+  <data key="d6">The U.S. Census Bureau provides data related to rare earth content and production estimates.</data>
+  <data key="d7">data source, content provider</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Argus Media Group" target="Rare-Earth Compounds">
+  <data key="d5">14.0</data>
+  <data key="d6">Argus Media Group provides market data related to rare-earth compounds.</data>
+  <data key="d7">market research, material analysis</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Zen Innovations" target="Rare-Earth Compounds">
+  <data key="d5">12.0</data>
+  <data key="d6">Zen Innovations provides estimated data on rare-earth compound imports from China.</data>
+  <data key="d7">import data, trade analysis</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="2023" target="Rare-Earth Compounds">
+  <data key="d5">16.0</data>
+  <data key="d6">Domestic production of rare-earth compounds totaled 1,920 tons in 2023.&lt;SEP&gt;The text reports the domestic production of rare-earth compounds in 2023.</data>
+  <data key="d7">production quantity, yearly data</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="2024" target="Rare-Earth Compounds">
+  <data key="d5">16.0</data>
+  <data key="d6">Domestic production of rare-earth compounds totaled 7,600 tons in 2024.&lt;SEP&gt;The text reports the domestic production of rare-earth compounds in 2024.</data>
+  <data key="d7">production quantity, yearly data</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare-Earth Compounds" target="Praseodymium">
+  <data key="d5">9.0</data>
+  <data key="d6">Praseodymium is a type of rare-earth compound.</data>
+  <data key="d7">material type, category membership</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare-Earth Compounds" target="Neodymium">
+  <data key="d5">9.0</data>
+  <data key="d6">Neodymium is a type of rare-earth compound.</data>
+  <data key="d7">material type, category membership</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Praseodymium" target="Rare Earths">
+  <data key="d5">9.0</data>
+  <data key="d6">Praseodymium is a rare earth element often used with neodymium.</data>
+  <data key="d7">element type, resource component</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Gross Weight" target="Appendix B">
+  <data key="d5">7.0</data>
+  <data key="d6">Appendix B defines the term 'Gross Weight' used in the text.</data>
+  <data key="d7">definition, terminology</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Appendix C" target="Resource and Reserve Definitions">
+  <data key="d5">8.0</data>
+  <data key="d6">Appendix C provides definitions for resource and reserve terms.</data>
+  <data key="d7">definition, terminology</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Production Quota" target="Undocumented Production">
+  <data key="d5">7.0</data>
+  <data key="d6">The text differentiates between official production quotas and undocumented production levels.</data>
+  <data key="d7">production measurement, reporting standards</data>
+  <data key="d8">chunk-17a64990e3acdf75015b60934f5a5b07</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="United States" target="Rare Earths">
+  <data key="d5">16.0</data>
+  <data key="d6">The United States has 1.9 million tons of measured and indicated rare earth resources.&lt;SEP&gt;The United States has 3.6 million tons of measured and indicated rare earth resources.</data>
+  <data key="d7">resource location, mineral deposit</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Canada" target="Rare Earths">
+  <data key="d5">16.0</data>
+  <data key="d6">Canada has over 14 million tons of rare earth resources.</data>
+  <data key="d7">resource location, mineral deposit</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Russia" target="Rare Earths">
+  <data key="d5">16.0</data>
+  <data key="d6">Russia holds 3.8 million tons of rare earth reserves.</data>
+  <data key="d7">resource location, mineral reserve</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Nigeria" target="Rare Earths">
+  <data key="d5">14.0</data>
+  <data key="d6">Nigeria's rare earth production has increased to 13,000 tons in 2024.</data>
+  <data key="d7">production increase, mineral extraction</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Thailand" target="Rare Earths">
+  <data key="d5">14.0</data>
+  <data key="d6">Thailand's rare earth production has increased to 13,000 tons in 2024.</data>
+  <data key="d7">production increase, mineral extraction</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Vietnam" target="Rare Earths">
+  <data key="d5">16.0</data>
+  <data key="d6">Vietnam holds 3.5 million tons of rare earth reserves.</data>
+  <data key="d7">resource location, mineral reserve</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Monazite">
+  <data key="d5">23.0</data>
+  <data key="d6">Monazite is a mineral containing rare earth elements.&lt;SEP&gt;Monazite is a mineral source for rare earths stockpiled in the southeastern US.&lt;SEP&gt;Monazite often contains rare earth elements.</data>
+  <data key="d7">mineral composition, resource source&lt;SEP&gt;mineral source, stockpiling&lt;SEP&gt;mineralogy, composition</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Bastnaesite">
+  <data key="d5">25.0</data>
+  <data key="d6">Bastnaesite is a primary mineral source for rare earths mined in the US.&lt;SEP&gt;Bastnaesite is a primary mineral source of rare earth elements.&lt;SEP&gt;Bastnaesite is a rare earth fluorocarbonate mineral.</data>
+  <data key="d7">mineral composition, resource source&lt;SEP&gt;mineral source, mining&lt;SEP&gt;mineralogy, composition</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150&lt;SEP&gt;chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Xenotime">
+  <data key="d5">7.0</data>
+  <data key="d6">Xenotime is a rare earth phosphate mineral.</data>
+  <data key="d7">mineral composition, resource source</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Cerium Compounds">
+  <data key="d5">8.0</data>
+  <data key="d6">Cerium Compounds are derived from rare earth elements.</data>
+  <data key="d7">chemical compound, resource derivative</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Lanthanum">
+  <data key="d5">9.0</data>
+  <data key="d6">Lanthanum is a rare earth element.</data>
+  <data key="d7">element type, resource component</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Neodymium-Praseodymium Oxide">
+  <data key="d5">8.0</data>
+  <data key="d6">Neodymium-Praseodymium Oxide contains rare earth elements.</data>
+  <data key="d7">chemical composition, resource component</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Neodymium-Iron-Boron Magnet Block">
+  <data key="d5">9.0</data>
+  <data key="d6">Neodymium-Iron-Boron Magnet Block utilizes rare earth elements.</data>
+  <data key="d7">application, material component</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Samarium-Cobalt Alloy">
+  <data key="d5">8.0</data>
+  <data key="d6">Samarium-Cobalt Alloy contains rare earth elements.</data>
+  <data key="d7">alloy composition, resource component</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Scandium">
+  <data key="d5">9.0</data>
+  <data key="d6">Scandium is a rare earth metal.</data>
+  <data key="d7">element type, resource component</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Yttrium">
+  <data key="d5">9.0</data>
+  <data key="d6">Yttrium is a rare earth metal.</data>
+  <data key="d7">element type, resource component</data>
+  <data key="d8">chunk-13bc42e27d50cc4f4e0fcc2a2cfbc150</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Malaysia">
+  <data key="d5">8.0</data>
+  <data key="d6">Malaysia is a significant source of rare-earth compounds and metals for the US.</data>
+  <data key="d7">supply chain, import source</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Japan">
+  <data key="d5">7.0</data>
+  <data key="d6">Japan is a source of rare-earth compounds and metals for the US.</data>
+  <data key="d7">supply chain, import source</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Estonia">
+  <data key="d5">6.0</data>
+  <data key="d6">Estonia is a source of rare-earth compounds and metals for the US.</data>
+  <data key="d7">supply chain, import source</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Permanent Magnets">
+  <data key="d5">19.0</data>
+  <data key="d6">Rare earths are used in the manufacturing of permanent magnets.&lt;SEP&gt;Rare earths are used in the production of permanent magnets.</data>
+  <data key="d7">application, end use&lt;SEP&gt;end use, application</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Batteries">
+  <data key="d5">15.0</data>
+  <data key="d6">Rare earths can be recovered from recycled batteries.</data>
+  <data key="d7">recycling, resource recovery</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Fluorescent Lamps">
+  <data key="d5">14.0</data>
+  <data key="d6">Rare earths can be recovered from recycled fluorescent lamps.</data>
+  <data key="d7">recycling, resource recovery</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Cerium Oxide">
+  <data key="d5">9.0</data>
+  <data key="d6">Cerium Oxide is a specific rare earth compound.</data>
+  <data key="d7">composition, specific element</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Dysprosium Oxide">
+  <data key="d5">8.0</data>
+  <data key="d6">Dysprosium Oxide is a specific rare earth compound.</data>
+  <data key="d7">composition, specific element</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Europium Oxide">
+  <data key="d5">7.0</data>
+  <data key="d6">Europium Oxide is a specific rare earth compound.</data>
+  <data key="d7">composition, specific element</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Lanthanum Oxide">
+  <data key="d5">9.0</data>
+  <data key="d6">Lanthanum Oxide is a specific rare earth compound.</data>
+  <data key="d7">composition, specific element</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Mischmetal">
+  <data key="d5">8.0</data>
+  <data key="d6">Mischmetal is an alloy containing rare earth elements.</data>
+  <data key="d7">composition, alloy</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Neodymium Oxide">
+  <data key="d5">7.0</data>
+  <data key="d6">Neodymium Oxide is a specific rare earth compound.</data>
+  <data key="d7">composition, specific element</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Terbium Oxide">
+  <data key="d5">6.0</data>
+  <data key="d6">Terbium Oxide is a specific rare earth compound.</data>
+  <data key="d7">composition, specific element</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Ferrocerium Alloys">
+  <data key="d5">7.0</data>
+  <data key="d6">Ferrocerium Alloys contain rare-earth metals.</data>
+  <data key="d7">composition, alloy</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Rare Earths" target="Scandium &amp; Yttrium">
+  <data key="d5">8.0</data>
+  <data key="d6">Scandium and Yttrium are rare-earth metals.</data>
+  <data key="d7">element category, composition</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Monazite" target="Southeastern United States">
+  <data key="d5">8.0</data>
+  <data key="d6">Monazite is stockpiled in the Southeastern United States.</data>
+  <data key="d7">location, stockpiling</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Bastnaesite" target="Mountain Pass, CA">
+  <data key="d5">9.0</data>
+  <data key="d6">Bastnaesite is mined in Mountain Pass, CA.</data>
+  <data key="d7">location, mining</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Malaysia" target="US Imports">
+  <data key="d5">7.0</data>
+  <data key="d6">Malaysia is a significant source of rare-earth compounds and metals imported into the US.</data>
+  <data key="d7">supply chain, import source</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Japan" target="US Imports">
+  <data key="d5">6.0</data>
+  <data key="d6">Japan is a source of rare-earth compounds and metals imported into the US.</data>
+  <data key="d7">supply chain, import source</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Estonia" target="US Imports">
+  <data key="d5">5.0</data>
+  <data key="d6">Estonia is a source of rare-earth compounds and metals imported into the US.</data>
+  <data key="d7">supply chain, import source</data>
+  <data key="d8">chunk-10830d3db4709fbf76df9a35bc684ef8</data>
+  <data key="d9">unknown_source</data>
+</edge>
+</graph></graphml>

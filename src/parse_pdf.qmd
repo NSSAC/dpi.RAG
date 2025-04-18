@@ -1,0 +1,30 @@
+
+## import modules
+```{python}
+from docling.document_converter import DocumentConverter
+import html
+import pathlib
+from pyprojroot.here import here
+```
+
+## set vars and paths
+```{python}
+TEST_NAME = "docling"
+PDF_FILE = pathlib.Path(here("data/mcs2025-rare-earths.pdf"))
+MD_FILE = pathlib.Path(here("data"), TEST_NAME, PDF_FILE.with_suffix('.md').name)
+```
+
+## docling - parse pdf
+```{python}
+source = PDF_FILE  # document per local path or URL
+converter = DocumentConverter()
+result = converter.convert(source)
+docling_text = result.document.export_to_markdown()
+# print(docling_text)
+# unescape HTML entities
+docling_text = html.unescape(docling_text)
+
+# write to disk
+with open(MD_FILE, "w", encoding="utf-8") as myfile:
+    myfile.write(docling_text)
+```
