@@ -4,18 +4,17 @@
 from docling.document_converter import DocumentConverter
 import html
 import pathlib
+import pymupdf4llm
+import PyPDF2
 from pyprojroot.here import here
-```
-
-## set vars and paths
-```{python}
-TEST_NAME = "docling"
-PDF_FILE = pathlib.Path(here("data/mcs2025-rare-earths.pdf"))
-MD_FILE = pathlib.Path(here("data"), TEST_NAME, PDF_FILE.with_suffix('.md').name)
 ```
 
 ## docling - parse pdf
 ```{python}
+TEST_NAME = "docling"
+PDF_FILE = pathlib.Path(here("data/mcs2025-rare-earths.pdf"))
+MD_FILE = pathlib.Path(here("data"), TEST_NAME, PDF_FILE.with_suffix('.md').name)
+
 source = PDF_FILE  # document per local path or URL
 converter = DocumentConverter()
 result = converter.convert(source)
@@ -27,4 +26,51 @@ docling_text = html.unescape(docling_text)
 # write to disk
 with open(MD_FILE, "w", encoding="utf-8") as myfile:
     myfile.write(docling_text)
+```
+
+## pymupdf4llm - parse pdf
+```{python}
+TEST_NAME = "pymupdf4llm"
+PDF_FILE = pathlib.Path(here("data/mcs2025-rare-earths.pdf"))
+MD_FILE = pathlib.Path(here("data"), TEST_NAME, PDF_FILE.with_suffix('.md').name)
+WORKING_DIR = pathlib.Path(here("data"), TEST_NAME)
+WORKING_DIR.mkdir(parents=True, exist_ok=True)
+REPORT_DIR = pathlib.Path(here("doc"), TEST_NAME)
+REPORT_DIR.mkdir(parents=True, exist_ok=True)
+
+source = PDF_FILE
+pymupdf4llm_text = pymupdf4llm.to_markdown(source)
+# unescape HTML entities
+pymupdf4llm_text = html.unescape(pymupdf4llm_text)
+
+# write to disk
+with open(MD_FILE, "w", encoding="utf-8") as myfile:
+    myfile.write(pymupdf4llm_text)
+```
+
+## PyPDF2 - parse pdf
+```{python}
+TEST_NAME = "PyPDF2"
+PDF_FILE = pathlib.Path(here("data/mcs2025-rare-earths.pdf"))
+MD_FILE = pathlib.Path(here("data"), TEST_NAME, PDF_FILE.with_suffix('.md').name)
+WORKING_DIR = pathlib.Path(here("data"), TEST_NAME)
+WORKING_DIR.mkdir(parents=True, exist_ok=True)
+
+REPORT_DIR = pathlib.Path(here("doc"), TEST_NAME)
+REPORT_DIR.mkdir(parents=True, exist_ok=True)
+
+with open(PDF_FILE, "rb") as f:
+    pdf_reader = PyPDF2.PdfReader(f)
+    PyPDF2_text = ""
+    for page_num in range(len(pdf_reader.pages)):
+        page = pdf_reader.pages[page_num]
+        PyPDF2_text += page.extract_text()
+
+# unescape HTML entities
+PyPDF2_text = html.unescape(PyPDF2_text)
+
+# write to disk
+with open(MD_FILE, "w", encoding="utf-8") as myfile:
+    myfile.write(PyPDF2_text)
+
 ```

@@ -18,7 +18,7 @@ from lightrag.kg.shared_storage import initialize_pipeline_status
 
 ## set paths
 ```{python}
-TEST_NAME = "marker"
+TEST_NAME = "PyPDF2"
 
 PDF_FILE = pathlib.Path(here("data/mcs2025-rare-earths.pdf"))
 MD_FILE = pathlib.Path(here("data"), TEST_NAME, PDF_FILE.with_suffix('.md').name)
@@ -91,6 +91,7 @@ query = """How many tons of Ferrocerium, alloys were exported in 2021?
 
 ## test different query modes
 ```{python}
+#| label: test different query modes
 modes = ["naive", "local", "global", "hybrid", "mix"]
 for mode in modes:
     print("Query Mode: " + mode)

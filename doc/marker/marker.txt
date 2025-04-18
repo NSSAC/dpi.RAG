@@ -1,0 +1,89 @@
+Query Mode: naive search## Rare Earths - Export and Ferrocerium Alloys
+
+In 2021, 825 tons of Ferrocerium, alloys were exported. 
+
+## Top 5 Products Made with Ferrocerium
+
+While the provided documents do not list the top 5 products *made* with Ferrocerium, they do indicate its use. Ferrocerium alloys are used in:
+
+1.  Lighters
+2.  Flint for starting fires
+3.  Gas igniters
+4.  Welding rods
+5.  Pyrotechnics
+
+**References**
+
+*   [DC] unknown_source
+*   [DC] unknown_source
+*   [DC] unknown_sourceQuery Mode: local searchIn 2021, 825 tons of Ferrocerium, alloys were exported.
+
+While the provided knowledge base doesn’t list specific products *made* with Ferrocerium, it does state Ferrocerium is an alloy containing rare earth elements, used in lighter flints and other applications. 
+
+Here are some applications that utilize Ferrocerium:
+
+*   **Lighter flints:** A primary use, creating sparks for ignition.
+*   **Starting fluid:** Used in some fire starters.
+*   **Gas lighters:** Used as a spark-generating component.
+*   **Welding rods:** As an additive to create sparks for ignition.
+*   **Pyrotechnics:** Used to create sparks in various pyrotechnic devices.
+
+**References:**
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_sourceQuery Mode: global searchIn 2021, 825 tons of Ferrocerium, alloys were exported.
+
+While the provided text doesn’t specifically list the top 5 products *made with* Ferrocerium, it does state that Ferrocerium is used in alloys and specifically as a component in lighter flints. Other applications aren’t detailed in the provided text.
+
+**References:**
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_sourceQuery Mode: hybrid search## Ferrocerium Alloy Exports in 2021
+
+According to the provided data, **825 tons** of Ferrocerium alloys were exported in 2021. 
+
+## Top 5 Products Made with Ferrocerium
+
+While the document doesn't explicitly list the *top* 5 products, it does state that Ferrocerium is used in alloys, and notably, the primary application is in **lighter flints**.  Other applications mentioned include use in other alloys.
+
+Here's a list of 5 products utilizing Ferrocerium, based on this information:
+
+1.  **Lighter Flints:** The most common application.
+2.  **Various Alloys:** Ferrocerium is an ingredient in certain alloy mixtures.
+3.  **Spark Ignition Systems:** The sparks created can be used in ignition systems.
+4.  **Pyrotechnic Devices**: It is used to create sparks in pyrotechnics.
+5.  **Emergency Fire Starters**: Used in tools for creating fire in survival situations.
+
+**References:**
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_sourceQuery Mode: mix search### Ferrocerium Alloy Exports in 2021
+
+According to the provided data, 330 tons of Ferrocerium alloys were exported in 2021. This information is sourced from the "Domestic Production and Use" table within the document chunk.
+
+### Top 5 Products Made with Ferrocerium
+
+Ferrocerium is most commonly used in products requiring a reliable sparking mechanism. Here are five prominent examples:
+
+1.  **Lighters:** This is the most well-known application, used in disposable and refillable lighters.
+2.  **Match Lighted Fire Starters:** Ferrocerium rods are key components of these fire starters.
+3.  **Gas Appliance Ignition:** Used in gas stoves, ovens, and water heaters for initial ignition.
+4.  **Emergency Fire Starting Kits:** Often included in survival and outdoor kits for reliable fire starting.
+5.  **Flintlock Firearms:** Historically and still used in some firearms, the flintlock mechanism relies on ferrocerium to create a spark.
+
+### References
+
+*   [DC] unknown_source
+*   [DC] unknown_source
+*   [DC] unknown_source
+*   [DC] unknown_source
+*   [DC] unknown_source
